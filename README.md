@@ -1,0 +1,3 @@
+# CMI Behavior Detection Kaggle Competition
+
+This project is for the [CMI - Detect Behavior with Sensor Data Kaggle competition](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/overview). The objective was develop a model that is able to differetiate between "body-focused repetitive behaviors (BFRBs), like hair pulling, from non-BFRB everyday gestures, like adjusting glasses". This competition ran from May 29th to September 2nd, 2025. 
